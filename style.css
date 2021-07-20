@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchMeals {
+    padding-top: 25px;
+}
+
+.random_meal_item {
+    display: flex;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.meal {
+    cursor: pointer;
+    max-width: 300px;
+}
+
+ul {
+    list-style: none;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+
+
+.random_meal_additional {
+    display: flex;
+    flex-direction: column;
+}
+
+.random_meal_item {
+    display: flex;
+    flex-direction: column;
+}
+
