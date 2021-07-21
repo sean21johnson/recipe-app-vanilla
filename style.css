@@ -44,3 +44,25 @@ h2 {
     flex-direction: column;
 }
 
+.fav_button {
+    margin-top: 15px;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.meal_buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.recipe_button {
+    width: 125px;
+    cursor: pointer;
+}
+
+h3 {
+    text-align: center;
+}
+
